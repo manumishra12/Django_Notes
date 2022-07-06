@@ -1,7 +1,9 @@
-# Django_Notes
-📑Beginner to Advanced Notes &amp; Cheatsheets for Django
-
 # :scroll: Django Cheat Sheet
+
+```
+📑Beginner to Advanced Notes &amp; Cheatsheets for Django
+```
+
 ```
 A cheat-sheet for creating web apps with the Django framework using the Python language. 
 Most of the summaries and examples are based on [the official documentation]-->
